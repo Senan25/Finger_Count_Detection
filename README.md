@@ -1,2 +1,2 @@
 # Finger_Count_Detection
-It is about one type of Object Detection cases which is Finger Count Detection
+It is an one case of Object Detection which is Finger Count Detection
